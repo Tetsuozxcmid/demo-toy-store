@@ -1,0 +1,4 @@
+PyQt6
+mysql-connector-python
+Pillow
+pyinstaller
